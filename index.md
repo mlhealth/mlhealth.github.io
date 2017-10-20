@@ -18,18 +18,3 @@ Hidden patterns and trends become visible when health organizations apply analyt
 Clinical analytics makes use of a steady stream of data to reveal trends applicable not just to individual patients, but also to large patient populations. Continuous data feeds from smart devices, along with scheduled interactions with chronically ill patients,
 help clinicians fine-tune personalized care plans and intercede before crisis events occur. This is particularly useful when the window of opportunity is in minutes, or even seconds, and care teams need to make very quick, critical decisions that may save lives.
 
-
-
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mlhealth/mlhealth.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
