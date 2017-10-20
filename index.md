@@ -15,6 +15,6 @@ The new data paradigm uses self-service analytics tools, which provide research-
 
 Hidden patterns and trends become visible when health organizations apply analytics to large amounts of data from sources such as EMRs, smart medical devices, patient and population demographics, and the public domain.
 
-Clinical analytics makes use of a steady stream of data to reveal trends applicable not just to individual patients, but also to large patient populations. Continuous data feeds from smart devices, along with scheduled interactions with chronically ill patients,
-help clinicians fine-tune personalized care plans and intercede before crisis events occur. This is particularly useful when the window of opportunity is in minutes, or even seconds, and care teams need to make very quick, critical decisions that may save lives.
+**Clinical analytics makes use of a steady stream of data to reveal trends applicable not just to individual patients, but also to large patient populations. Continuous data feeds from smart devices, along with scheduled interactions with chronically ill patients,
+help clinicians fine-tune personalized care plans and intercede before crisis events occur. This is particularly useful when the window of opportunity is in minutes, or even seconds, and care teams need to make very quick, critical decisions that may save lives!
 
