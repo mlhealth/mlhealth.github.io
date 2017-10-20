@@ -7,7 +7,7 @@ Frontline providers of patient care spend a great deal of time collecting data. 
 
 An EMR may contain pages of narrative from social workers describing their interactions with patients and their families. It may include lab results, EKGs, and medical imaging from multiple episodes.
 
-**Clinicians don’t need more data. They need more insights from data.
+Clinicians don’t need more data. They need more insights from data.
 
 What if all these constraints went away? What if you could use every piece of clinical data you have, no matter how much there is or where it is, and you had unlimited resources to process and analyze that data—in near real time? What if you could not only understand what happened in the past and why, but predict what may happen in the future and take prescribed action to prevent it? With cloud analytics, we can do this—today.
 
@@ -15,6 +15,6 @@ The new data paradigm uses self-service analytics tools, which provide research-
 
 Hidden patterns and trends become visible when health organizations apply analytics to large amounts of data from sources such as EMRs, smart medical devices, patient and population demographics, and the public domain.
 
-**Clinical analytics makes use of a steady stream of data to reveal trends applicable not just to individual patients, but also to large patient populations. Continuous data feeds from smart devices, along with scheduled interactions with chronically ill patients,
+Clinical analytics makes use of a steady stream of data to reveal trends applicable not just to individual patients, but also to large patient populations. Continuous data feeds from smart devices, along with scheduled interactions with chronically ill patients,
 help clinicians fine-tune personalized care plans and intercede before crisis events occur. This is particularly useful when the window of opportunity is in minutes, or even seconds, and care teams need to make very quick, critical decisions that may save lives!
 
